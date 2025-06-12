@@ -21,7 +21,7 @@ const contactLinks = [
     id: 'linkedin',
     label: 'LinkedIn',
     value: 'rebecca-byamungu',
-    href: 'https://linkedin.com/in/rebecca-byamungu',
+    href: 'http://linkedin.com/in/rebecca-byamungu-52a64835b',
     icon: <Linkedin size={20} />
   },
   {
