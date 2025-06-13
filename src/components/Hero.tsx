@@ -22,7 +22,7 @@ const Hero = () => {
           <div className="mt-8 space-y-4">
             <h3 className="text-3xl font-bold text-white/90 animate-fadeInUp">Hi, I'm</h3>
             <h2 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white tracking-tight animate-fadeInUp delay-200">
-              Rebecca Byamungu
+              Rebecca  Byamungu
             </h2>
             <p className="text-xl sm:text-2xl font-light text-white/80 animate-fadeInUp delay-300">
               Frontend Developer | UI/UX Enthusiast

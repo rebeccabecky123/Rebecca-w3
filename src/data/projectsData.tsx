@@ -34,7 +34,7 @@ export const projectsData: Project[] = [
   {
     title: 'Personal Journal',
     description: 'Interactive product showcase with image galleries.',
-    technologies: ['JavaScript', 'Tailwind CSS'],
+    technologies: ['Next.js', 'JavaScript', 'Tailwind CSS'],
     icon: <ShoppingBag size={48} className="text-white" />,
     image: '/b3.jpg',
     liveUrl: 'https://journal-ap.netlify.app/',
