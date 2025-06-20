@@ -1,4 +1,4 @@
-import { Heart } from 'lucide-react';
+
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -21,11 +21,6 @@ const Footer = () => {
           </div>
           
           <div className="flex flex-col items-center md:items-end space-y-4">
-            <p className="flex items-center text-gray-300 group">
-              Made with 
-              <Heart size={16} className="mx-2 text-red-500 group-hover:scale-125 transition-transform duration-300" />
-              in Kigali
-            </p>
             <p className="text-gray-400 text-sm">
               © {currentYear} Rebecca Byamungu. All rights reserved.
             </p>
